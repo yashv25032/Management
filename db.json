@@ -1,0 +1,21 @@
+{
+  "Employee": [
+    
+    {
+      "id": 1,
+      "name": "Yashwant vishwakarma",
+      "email": "yashwant48200@gmail.com",
+      "phone": "9876545678",
+      "address": "Thane",
+      "salary": "9887"
+    },
+    {
+      "name": "prince yadav",
+      "email": "prince@gmail.com",
+      "phone": "98765434",
+      "salary": "878",
+      "address": "thane",
+      "id": 2
+    }
+  ]
+}
